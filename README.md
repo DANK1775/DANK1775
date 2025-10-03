@@ -11,8 +11,7 @@
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=DANK1775&icon=0&color=3)](https://visitcount.itsvg.in)
 ---
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/DANK1775) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/DANK1775) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DANK1775&show_icons=true&theme=radical) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
